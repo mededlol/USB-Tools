@@ -22,4 +22,5 @@ SINAVLAR\11. SINIF\1. DÖNEM şeklinde ikinci satır doldurulmalıdır.
 * Takdir edersiniz ki böyle iyi bir program (!), antivirüsler tarafından virüs algılanabilir. Programa antivirüsten izin vermelisiniz.
 * Eğer bilgisayar kapatılırsa veya yeniden başlatılırsa, program da kapanır ve planlarınız çöpe gider.
 * Programın USB'deki her dosyaya erişimi olmayabilir. Eğer programı açarken 'Yönetici olarak çalıştır' seçeneğini kullanırsanız, bu dosyaları da çalabilirsiniz. Ne olur ne olmaz, böyle yapmanız önerilir.
+* Programı açtıktan sonra kayıt dosyasını değiştirirseniz ayarlar değişmez, programı kapatmanız ve tekrar açmanız gerekir, kararsız olmayın.
 * Program yapılırken herhangi bir karıştırma algoritması kullanılmamıştır, dnSpy gibi araçlarla kaynak koduna bakabilirsiniz. Program, USB bilgilerini çalmak harici bir işleve sahip değildir. Bu programın kötü amaçlarla kullanımından ben değil bu programı indiren ve kullanan kişi sorumludur. Bu program eğitim amacıyla ve kodlamamı geliştirmek için kodlandı :)
