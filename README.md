@@ -24,3 +24,5 @@ SINAVLAR\11. SINIF\1. DÖNEM şeklinde ikinci satır doldurulmalıdır.
 * Programın USB'deki her dosyaya erişimi olmayabilir. Eğer programı açarken 'Yönetici olarak çalıştır' seçeneğini kullanırsanız, bu dosyaları da çalabilirsiniz. Ne olur ne olmaz, böyle yapmanız önerilir.
 * Programı açtıktan sonra kayıt dosyasını değiştirirseniz ayarlar değişmez, programı kapatmanız ve tekrar açmanız gerekir, kararsız olmayın.
 * Program yapılırken herhangi bir karıştırma algoritması kullanılmamıştır, dnSpy gibi araçlarla kaynak koduna bakabilirsiniz. Program, USB bilgilerini çalmak harici bir işleve sahip değildir. Bu programın kötü amaçlarla kullanımından ben değil bu programı indiren ve kullanan kişi sorumludur. Bu program eğitim amacıyla ve kodlamamı geliştirmek için kodlandı :)
+* Program bazı hatalardan dolayı türkçe karakter içeren klasörleri alamayabilir. Bu durumlarda, satırı boş bırakıp bütün dosyaları çalmanız o klasörü de almanızı sağlayabilir.
+* Aklıma geldikçe yeni detaylar ekleyeceğim. Programla ilgili hataları ve düzeltilmesi gereken şeyleri, Discord'dan bildirebilirsiniz. (nahidwingojosatoru)
