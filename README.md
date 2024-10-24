@@ -26,3 +26,5 @@ SINAVLAR\11. SINIF\1. DÖNEM şeklinde ikinci satır doldurulmalıdır.
 * Program yapılırken herhangi bir karıştırma algoritması kullanılmamıştır, dnSpy gibi araçlarla kaynak koduna bakabilirsiniz. Program, USB bilgilerini çalmak harici bir işleve sahip değildir. Bu programın kötü amaçlarla kullanımından ben değil bu programı indiren ve kullanan kişi sorumludur. Bu program eğitim amacıyla ve kodlamamı geliştirmek için kodlandı :)
 * Program bazı hatalardan dolayı türkçe karakter içeren klasörleri alamayabilir. Bu durumlarda, satırı boş bırakıp bütün dosyaları çalmanız o klasörü de almanızı sağlayabilir.
 * Aklıma geldikçe yeni detaylar ekleyeceğim. Programla ilgili hataları ve düzeltilmesi gereken şeyleri, Discord'dan bildirebilirsiniz. (nahidwingojosatoru)
+
+# USB Logger - USB hakkındaki temel bilgileri çalan ve loglayan bir program. (Yakında...)
